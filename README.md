@@ -1,2 +1,7 @@
 # UniMetro_Backend
 Desarrollar un **sistema web integral de gestión de servicios de calibración**, orientado a automatizar el flujo **comercial–técnico** desde la recepción de equipos, generación de cotizaciones y órdenes de trabajo, hasta la calibración en laboratorio o en campo, emisión de guías de remisión y seguimiento documental, reduciendo la dependencia de hojas de cálculo (Excel) y minimizando reprocesos y pérdida de información.
+
+
+SpringBoot 
+Cloudinary
+JWTTokken
